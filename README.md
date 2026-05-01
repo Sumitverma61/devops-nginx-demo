@@ -19,3 +19,6 @@
 sudo systemctl start nginx
 sudo systemctl enable nginx
 
+
+webpage is kept at /var/home/desktop/nginx
+
