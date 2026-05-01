@@ -22,3 +22,7 @@ sudo systemctl enable nginx
 
 webpage is kept at /var/home/desktop/nginx
 
+
+happy learning 
+hello dosto kaise hain aap log
+
